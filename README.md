@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dhruv aggarwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dhruv aggarwal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhruv-aggarwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dhruv aggarwal" height="30" width="40" /></a>
 <a href="https://fb.com/dhruv aggarwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dhruv aggarwal" height="30" width="40" /></a>
 </p>
 
