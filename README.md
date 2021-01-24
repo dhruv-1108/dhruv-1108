@@ -7,3 +7,6 @@
 - 📫 How to reach me: dhruv1108aggarwal@gmail.com
 - ⚡ Fun fact: The First Computer Weighed More Than 27 Tons.
 
+<img src="https://github-readme-stats.vercel.app/api?username=dhruv-1108&&show_icons=true&title_color=ffffff&icon_color=112878&text_color=daf7dc&bg_color=187580">
+
+
