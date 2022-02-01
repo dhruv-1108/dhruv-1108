@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-1108&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-1108" /> </p>
 
-- 🔭 I’m currently working on **AI & ML projects**
+- 🔭 I’m currently working on **ReactJS and open source**
 
 - 🌱 I’m currently learning **Web Development.**
 
 - 👯 I’m looking to collaborate with **programmers.**
-
-- 🤝 I’m looking for help with **Open source and Cloud Computing.**
 
 - 📫 How to reach me **dhruv1108aggarwal@gmail.com**
 
